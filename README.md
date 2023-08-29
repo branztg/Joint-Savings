@@ -1,6 +1,4 @@
-# Unit 20 - "Joint Savings Account"
-
-![alt=“”](Images/20-5-challenge-image.png)
+# Unit 20 Homework - "Joint Savings Account"
 
 ### Background
 
@@ -99,7 +97,7 @@ To interact with your deployed smart contract, complete the following steps:
 
 ---
 
-### Submission
+### Submission Results
 
 * Upload the files for this assignment to your GitHub repository.
 
