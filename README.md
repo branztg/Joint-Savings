@@ -99,9 +99,20 @@ To interact with your deployed smart contract, complete the following steps:
 
 ### Submission Results
 
-* Upload the files for this assignment to your GitHub repository.
+#### Setting Accounts and Deposit
+![20hw-deposit](https://github.com/branztg/Joint-Savings/assets/100908888/b1aa4734-c2a8-4f98-983f-59d7ca772e17)
 
-* Submit the link to your GitHub repo on Bootcamp Spot.
+#### Contract Balance
+![20hw-contractbalance](https://github.com/branztg/Joint-Savings/assets/100908888/e289c10a-a489-4747-a12a-23787a42904b)
+
+#### Withdrwing 
+![hw20-withdraw](https://github.com/branztg/Joint-Savings/assets/100908888/eed76f09-b0cc-4827-a53f-8a9b77266ada)
+
+
+
+
+
+
 
 ---
 
